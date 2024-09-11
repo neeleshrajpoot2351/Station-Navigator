@@ -19,4 +19,5 @@ User Interface: A visually appealing and intuitive UI showing how many trains ar
 
 Future Enhancements -> IoT and GPS Integration: Implement sensors and GPS technology to track the user's exact location and provide navigation guidance to the station, directing users to their destinations using real-time directions on their mobile devices.
 
-
+Figm design link->
+https://www.figma.com/design/vE6JibDWYPTEq1BXRBP1JX/Station-Navigator-App?node-id=0-1&t=8y5OFYl8jXqou5G4-1
